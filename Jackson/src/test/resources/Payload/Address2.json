@@ -1,0 +1,21 @@
+[
+	{
+  "qno" : 529,
+  "street" : 13,
+  "sector" : "9B",
+  "city" : "Bokaro",
+  "zip" : 827009,
+  "ispermanent" : true,
+  "state" : "Jharkhand"
+	},
+	
+	{
+  "qno" : 547,
+  "street" : 14,
+  "sector" : "9C",
+  "zip" : 827008,
+  "ispermanent" : false,
+  "state" : "Jharkhand2"
+	}
+
+]
